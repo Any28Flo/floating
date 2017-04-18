@@ -1,21 +1,12 @@
 body{
   font-family: 'Shadows Into Light', cursive;
 }
-img{
-  float: right;
-  height: 250px;
-  margin: 10px;
+p#float{
+  float: left;
+  width: 200px;
+  margin-top: 0px;
+  background:  #A5D3DE;
 }
 p{
-  padding: 15px;
-  background-color: #FFF799;
-  border: 2px solid #6C4788;
-}
-span.disclaimer{
-  float: right;
-  margin: 10px;
-  width: 200px;
-  color: #FFF;
-  background-color:  #9D080D;
-  padding: 4px;
+  border: 1px solid red;
 }
